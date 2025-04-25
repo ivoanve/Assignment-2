@@ -1,4 +1,10 @@
-﻿
+---
+ layout: post
+ title: "Assignment 2 Ivonne Anave My blog"
+ date: 2024-05-28 12:00:00 +0200
+ categories: Category1, Categoría2
+---
+ Este es el contenido de tu publicación de blog.﻿
 # Assignment 2 Documentation: Static Personal Website
 
 ## 1. Introduction

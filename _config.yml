@@ -1,53 +1,53 @@
-# Assignment 2 Report: Static Personal Blog Website
+Assignment 2 Report: Static Personal Blog Website
 
-## 1. Introduction
+1. Introduction
 
 This report details the process of setting up, deploying, and documenting a static personal blog website using GitHub Pages and Jekyll.
 
-## 2. Website Configuration
+2. Website Configuration
 
-### 2.1 Tool Selection
+2.1 Tool Selection
 - **GitHub Pages**: Platform for deploying static websites.
 - **Jekyll**: Static site generator for GitHub Pages.
 
-### 2.2 Project Initialization
+2.2 Project Initialization
 - Created a new GitHub repository named `Assignment-2`.
 - Initialized Jekyll in the `main` branch with the `minima` theme.
 
-### 2.3 Jekyll Configuration
+2.3 Jekyll Configuration
 - Edited the `_config.yml` file to set up the site theme, title, author, and description.
 
-## 3. Deployment Process
+3. Deployment Process
 
-### 3.1 Content Creation
+3.1 Content Creation
 - Created blog post files in the `_posts` directory with the format `YYYY-MM-DD-title.md`.
 - Added static pages such as an About and Contact page.
 
-### 3.2 Deployment to GitHub Pages
+3.2 Deployment to GitHub Pages
 - Configured GitHub Pages in the repository settings to deploy from the `main` branch.
 
-## 4. Git Version Control Management
+4. Git Version Control Management
 
-### 4.1 Git Process
+4.1 Git Process
 - Used Git to manage project files.
 - Made at least 5 meaningful commits that reflect logical progress in the project development.
 
-### 4.2 Commit Justification
+4.2 Commit Justification
 - **Commit 1**: Initial repository setup and Jekyll configuration.
 - **Commit 2**: Main content addition to the website.
 - **Commit 3**: Adjustments to site configuration and structure improvements.
 - **Commit 4**: New blog posts included.
 - **Commit 5**: Final documentation and preparation for submission.
 
-## 5. Choice of Tools or Frameworks
+5. Choice of Tools or Frameworks
 
 The choice of Jekyll and GitHub Pages was based on their ease of use and integration with GitHub, simplifying the deployment and management of a static website.
 
-## 6. Conclusion
+6. Conclusion
 
 This project allowed me to learn how to configure and deploy a static website using GitHub Pages and Jekyll. Additionally, it improved my skills in version control with Git and project documentation.
 
-## 7. References
+7. References
 
 - [GitHub Pages Documentation](https://pages.github.com/)
 - [Jekyll Documentation](https://jekyllrb.com/docs/)

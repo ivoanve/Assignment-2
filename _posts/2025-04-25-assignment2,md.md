@@ -1,7 +1,7 @@
 ---
  layout: post
  title: "Assignment 2 Ivonne Anave My blog"
- date: 2024-04-25 12:00:00 +0200
+ date: 2025-04-25 12:00:00 +0200
  categories: Cat
 ---
 # Assignment 2 Documentation: Static Personal Website

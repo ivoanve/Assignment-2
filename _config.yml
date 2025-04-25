@@ -1,5 +1,7 @@
 theme: minima
-title: Mi Blog Personal
-author: Tu Nombre
+title: My Blog 
+author: Ivonne Anave Z
 description: >-
-  Este es un blog personal donde comparto mis pensamientos e ideas.
+  Test 1
+date: 2025-04-25 12:00:00 +0200
+layout: post

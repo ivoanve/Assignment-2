@@ -1,4 +1,8 @@
-﻿
+---
+title: "Assignment 3 - LLM Deployment with Ollama"
+date: 2025-06-05
+---
+
 # Assignment 3: Deployment and Integration of Large Language Models (LLMs)
 
 ## I. Online Model API: OpenAI

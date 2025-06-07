@@ -1,4 +1,9 @@
-﻿# Matrix Multiplication Project Report
+---
+title: "Assignment 1"
+date: 2024-06-06
+---
+ 
+ # Matrix Multiplication Project Report
 
 **Student Name**: Ivonne Andrea Anave Zenteno
 **Student ID**: LS2408221

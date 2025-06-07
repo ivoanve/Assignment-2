@@ -1,4 +1,7 @@
-﻿
+---
+title: "Assignment 4"
+date: 2025-06-06
+---﻿
 # Assignment 4: CubeSat Risk Quick-Assessor  
 **Course:** [Your Course Name]  
 **Author:** [Your Name]  

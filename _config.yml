@@ -1,4 +1,5 @@
-title: Ivonne's Assignment Portfolio
+title: Ivonne's Assignments
 theme: jekyll-theme-cayman
-
+plugins:
+  - jekyll-feed
 

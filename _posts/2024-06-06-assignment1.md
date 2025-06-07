@@ -20,47 +20,51 @@
 
 - **Source Code**:
   ```c
-  #include <stdio.h>
-  #include <stdlib.h>
+---
+title: "Assignment 1"
+date: 2024-06-06
+---
 
-  #define SIZE 2
+## Matrix Multiplication in C
 
-  void printMatrix(int mat[SIZE][SIZE]) {
-      for (int i = 0; i < SIZE; i++) {
-          for (int j = 0; j < SIZE; j++) {
-              printf("%d ", mat[i][j]);
-          }
-          printf("\n");
-      }
-  }
+The following program multiplies two 2x2 matrices and prints the result.
 
-  void multiplyMatrices(int mat1[SIZE][SIZE], int mat2[SIZE][SIZE], int result[SIZE][SIZE]) {
-      for (int i = 0; i < SIZE; i++) {
-          for (int j = 0; j < SIZE; j++) {
-              result[i][j] = 0;
-              for (int k = 0; k < SIZE; k++) {
-                  result[i][j] += mat1[i][k] * mat2[k][j];
-              }
-          }
-      }
-  }
+```c
+#include <stdio.h>
+#define SIZE 2
 
-  int main() {
-      int mat1[SIZE][SIZE] = {{1, 2}, {3, 4}};
-      int mat2[SIZE][SIZE] = {{5, 6}, {7, 8}};
-      int result[SIZE][SIZE];
+void printMatrix(int mat[SIZE][SIZE]) {
+    for (int i = 0; i < SIZE; i++) {
+        for (int j = 0; j < SIZE; j++) {
+            printf("%d ", mat[i][j]);
+        }
+        printf("\n");
+    }
+}
 
-      multiplyMatrices(mat1, mat2, result);
+void multiplyMatrices(int mat1[SIZE][SIZE], int mat2[SIZE][SIZE], int result[SIZE][SIZE]) {
+    for (int i = 0; i < SIZE; i++) {
+        for (int j = 0; j < SIZE; j++) {
+            result[i][j] = 0;
+            for (int k = 0; k < SIZE; k++) {
+                result[i][j] += mat1[i][k] * mat2[k][j];
+            }
+        }
+    }
+}
 
-      printf("Matrix 1:\n");
-      printMatrix(mat1);
-      printf("Matrix 2:\n");
-      printMatrix(mat2);
-      printf("Result:\n");
-      printMatrix(result);
+int main() {
+    int mat1[SIZE][SIZE] = {{1, 2}, {3, 4}};
+    int mat2[SIZE][SIZE] = {{5, 6}, {7, 8}};
+    int result[SIZE][SIZE];
 
-      return 0;
-  }
+    multiplyMatrices(mat1, mat2, result);
+    printf("Result Matrix:\n");
+    printMatrix(result);
+
+    return 0;
+}
+
   
 #### Python Language Implementation
 - **Source Code**: Include the Python script with comments explaining key sections.

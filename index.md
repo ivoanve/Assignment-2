@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Bienvenido a mi página de asignaciones
+# Welcome 
 
 <ul>
   {% for post in site.posts %}

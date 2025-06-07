@@ -1,15 +1,20 @@
 ---
-title: Ivonne's Assignments
-layout: default
+title: Ivonne's Assignment Portfolio
+layout: home
 ---
 
-# Ivonne's Assignment Portfolio
+# 👩‍🚀 Welcome to My Assignment Portfolio
 
-Welcome! Below are my 4 main assignments:
+Here you will find a collection of my 4 main assignments for the course.  
+Each assignment is presented as a blog post below.
 
-{% for post in site.posts %}
-  <li>
-    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-    <p>{{ post.excerpt }}</p>
-  </li>
-{% endfor %}
+---
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      <p>{{ post.excerpt | strip_html | truncate: 150 }}</p>
+    </li>
+  {% endfor %}
+</ul>

@@ -1,4 +1,4 @@
 title: "Assignment 2 Page"
-theme: jekyll-theme-cayman
-baseurl: "/Assignment-2"  # <--- esta línea es fundamental
+theme: minima
+baseurl: "/Assignment-2"
 url: "https://ivoanve.github.io"

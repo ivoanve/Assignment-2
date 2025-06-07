@@ -2,6 +2,7 @@
 title: "Assignment 2"
 date: 2025-06-06
 ---﻿
+
 # Assignment 2 Documentation: Static Personal Website
 
 ## 1. Introduction

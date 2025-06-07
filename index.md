@@ -1,11 +1,9 @@
 ---
-layout: Software 
+layout: default
 title: Home
 ---
 
-# Assignments
-
-Here are the available assignments:
+# Bienvenido a mi página de asignaciones
 
 <ul>
   {% for post in site.posts %}

@@ -28,6 +28,7 @@ date: 2025-06-06
 
 ### C Language Implementation
 
+{% raw %}
 ```c
 #include <stdio.h>
 #include <stdlib.h>

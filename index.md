@@ -2,7 +2,8 @@
 layout: default
 title: Assignment Portfolio
 ---
-<link rel="stylesheet" href="assets/style.css">
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/style.css">
+
 
 # 🎓 Ivonne's Academic Assignment Portfolio
 

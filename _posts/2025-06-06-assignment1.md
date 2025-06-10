@@ -52,8 +52,9 @@ void multiplyMatrices(int mat1[SIZE][SIZE], int mat2[SIZE][SIZE], int result[SIZ
 }
 
 int main() {
-    int mat1[SIZE][SIZE] = {{1, 2}, {3, 4}};
-    int mat2[SIZE][SIZE] = {{5, 6}, {7, 8}};
+int mat1[SIZE][SIZE] = { {1, 2}, {3, 4} };
+int mat2[SIZE][SIZE] = { {5, 6}, {7, 8} };
+
     int result[SIZE][SIZE];
 
     multiplyMatrices(mat1, mat2, result);
@@ -67,3 +68,5 @@ int main() {
 
     return 0;
 }
+```
+{% endraw %}

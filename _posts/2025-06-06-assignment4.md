@@ -1,10 +1,10 @@
 ---
-title: "Assignment 4"
-date: 2025-06-06
----﻿
+title: "CubeSat Risk Quick-Assessor"
+date: 2025-06-01
+---
 # Assignment 4: CubeSat Risk Quick-Assessor  
-**Course:** [Your Course Name]  
-**Author:** [Your Name]  
+**Course:** Basics-of-Software-Technology  
+**Author:** Ivonne Andrea Anave Zenteno  
 **Date:** June 6, 2025  
 
 ## 1. Introduction  

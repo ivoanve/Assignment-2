@@ -16,7 +16,7 @@ This document details the process of configuring and deploying a static personal
 - **Jekyll**: Static site generator for GitHub Pages.
 
 ### 2.2 Project Initialization
-- I created a new GitHub repository called `Assignment-2`.
+- I created a new GitHub repository called `Basics-of-Software-Technology`.
 - I initialized Jekyll on the `main` branch with the `minima` theme.
 
 ### 2.3 Jekyll Configuration

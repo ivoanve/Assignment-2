@@ -118,7 +118,7 @@ Welcome to my academic portfolio. Here you will find a curated collection of my 
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ site.baseurl }}{{ post.url }}">📄 {{ post.title }}</a><br>
+      <a href="{{ site.baseurl }}{{ post.url }}">...</a>
       <small class="date">📅 {{ post.date | date: "%B %d, %Y" }}</small>
     </li>
   {% endfor %}

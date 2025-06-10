@@ -1,4 +1,35 @@
-title: "Assignment 2 Page"
+title: "Basic of Software Technology course"
 theme: minima
+
+# Base url and full url
 baseurl: "/Assignment-2"
 url: "https://ivoanve.github.io"
+
+# Minima theme options (puedes ajustar estos colores para personalizar)
+minima:
+  # Colores principales
+  primary_color: "#1a73e8"       # azul vibrante para links y encabezados
+  secondary_color: "#e91e63"     # rosa fuerte para acentos, botones, enlaces hover
+  background_color: "#f9fafb"    # fondo claro suave
+  text_color: "#2c3e50"          # color del texto principal
+  link_color: "#1a73e8"
+  link_hover_color: "#e91e63"
+
+# Configuración para mejorar apariencia y funcionalidad
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Personalización adicional que puedes agregar
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+# Configuración para navegación si la usas
+# navigation:
+#   - title: Home
+#     url: /
+#   - title: Assignments
+#     url: /assignments/

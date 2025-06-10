@@ -23,9 +23,8 @@ date: 2025-06-06
 ---
 
 ## Implementation Details
-
 ### C Language Implementation
-
+{% raw %}
 ```c
 #include <stdio.h>
 #include <stdlib.h>
@@ -68,4 +67,3 @@ int main() {
 
     return 0;
 }
-

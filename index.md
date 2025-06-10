@@ -114,6 +114,7 @@ Welcome to my academic portfolio. Here you will find a curated collection of my 
 ---
 
 ## 📁 Featured Assignments
+_posts/2025-06-01-assignment1.md → /2025/06/01/assignment1.html
 
 <ul>
   {% for post in site.posts %}

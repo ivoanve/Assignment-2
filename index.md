@@ -124,6 +124,7 @@ Welcome to my academic portfolio. Here you will find a curated collection of my 
   {% endfor %}
 </ul>
 
+
 ---
 
 ## 📝 About This Page

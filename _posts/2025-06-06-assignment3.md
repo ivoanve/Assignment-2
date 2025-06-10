@@ -1,7 +1,7 @@
 ---
-title: "Assignment 3"
-date: 2025-06-06
----﻿
+title: "Deployment and Integration of Large Language Models (LLMs)"
+date: 2025-06-01
+---
 # Assignment 3: Deployment and Integration of Large Language Models (LLMs)
 
 ## I. Online Model API: OpenAI

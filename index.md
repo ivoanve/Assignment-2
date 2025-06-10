@@ -122,7 +122,7 @@ Welcome to my academic portfolio. Here you will find a curated collection of my 
       <small class="date">📅 {{ post.date | date: "%B %d, %Y" }}</small>
     </li>
   {% endfor %}
-</ul>
+</ul> 
 ---
 
 ## 📝 About This Page

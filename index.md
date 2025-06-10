@@ -114,18 +114,15 @@ Welcome to my academic portfolio. Here you will find a curated collection of my 
 ---
 
 ## 📁 Featured Assignments
-_posts/2025-06-01-assignment1.md → /2025/06/01/assignment1.html
 
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ site.baseurl }}{{ post.url }}">...</a>
+      <a href="{{ site.baseurl }}{{ post.url }}">📄 {{ post.title }}</a><br>
       <small class="date">📅 {{ post.date | date: "%B %d, %Y" }}</small>
     </li>
   {% endfor %}
 </ul>
-
-
 ---
 
 ## 📝 About This Page

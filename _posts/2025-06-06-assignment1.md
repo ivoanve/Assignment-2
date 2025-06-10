@@ -1,9 +1,7 @@
-﻿
 ---
 title: "Assignment 1: Matrix Multiplication"
 date: 2025-06-06
 ---
-
 ## Matrix Multiplication Project Report
 
 **Student Name**: Ivonne Andrea Anave Zenteno  

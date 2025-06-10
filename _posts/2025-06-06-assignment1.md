@@ -24,9 +24,10 @@ date: 2025-06-06
 
 ## Implementation Details
 ### C Language Implementation
-{% raw %}
 
+{% raw %}
 ```c
+
 #include <stdio.h>
 #include <stdlib.h>
 

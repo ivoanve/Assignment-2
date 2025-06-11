@@ -11,6 +11,7 @@ date: 2025-04-25
 ## 1. Objective
 
 The goal of this assignment was to create and deploy a static personal blog website using tools such as **Jekyll**, **Markdown**, **Git**, and **GitHub Pages**. The website serves as a central location to present my course assignments, starting with Assignment 1.
+
 ---
 ## 2. Website Setup and Deployment
 
@@ -29,4 +30,26 @@ I used **Jekyll** with the official GitHub Pages theme jekyll-theme-minimal to b
 4. Customized layout using minimal HTML and Markdown only (as jekyll-theme-minimal is intentionally lightweight).
 5. Deployed the site to GitHub Pages, now publicly accessible at:  
    🔗 [https://ivoanve.github.io/Basics-of-Software-Technology]
+---
+## 3. Git Version Control
+
+I used Git throughout the project to track meaningful changes. Below is a summary of important commits:
+
+| Commit Message                        | Purpose                                     |
+|--------------------------------------|---------------------------------------------|
+| init: basic Jekyll setup           | Started the Jekyll site structure           |
+| add: assignment1 markdown          | Added content and code for Assignment 1     |
+| change: updated _config for theme  | Switched to jekyll-theme-minimal            |
+| docs: wrote assignment2 report     | Added this report to the site               |
+| style: improved homepage layout    | Simplified structure, better readability    |
+
+Each commit represents a logical step in the site’s creation or improvement process.
+---
+## 4. Integration of Previous Work
+
+Assignment 1 was integrated directly into the blog as a separate post. It includes:
+
+- Complete documentation in Markdown  
+- C and Python code for matrix multiplication  
+- System configuration and output validation  
 ---

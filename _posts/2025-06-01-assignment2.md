@@ -1,59 +1,32 @@
 ---
-title: "Assignment 2 Documentation: Static Personal Website"
-date: 2025-06-01
+title: "Assignment 2: Static Personal Blog Website"
+date: 2025-04-25
 ---
-# Assignment 2 Documentation: Static Personal Website
+## Static Personal Blog Website Report
 
-## 1. Introduction
+**Student Name**: Ivonne Andrea Anave Zenteno  
+**Student ID**: LS2408221  
+**Submission Date**: 25/04/2025  
 
-This document details the process of configuring and deploying a static personal website using GitHub Pages and Jekyll.
+---
 
-## 2. Website Configuration
+## 1. Objective
 
-### 2.1 Tool Selection
-- **GitHub Pages**: Platform for deploying static websites.
-- **Jekyll**: Static site generator for GitHub Pages.
+The goal of this assignment was to create and deploy a static personal blog website using tools such as **Jekyll**, **Markdown**, **Git**, and **GitHub Pages**. The website serves as a central location to present my course assignments, starting with Assignment 1.
 
-### 2.2 Project Initialization
-- I created a new GitHub repository called `Basics-of-Software-Technology`.
-- I initialized Jekyll on the `main` branch with the `minima` theme.
+---
 
-### 2.3 Jekyll Configuration
-- I edited the `_config.yml` file to configure the site theme, title, author, and description.
+## 2. Website Setup and Deployment
 
-## 3. Deployment Process
+I used **Jekyll** with the official GitHub Pages theme `jekyll-theme-minimal` to build and style the site.
 
-### 3.1 Content Creation
-- Created several blog files in the `_posts` directory in the format `YYYY-MM-DD-post-title.md`.
-- Added static pages such as an About page and a Contact page.
+### Steps followed:
 
-### 3.2 Deploying GitHub Pages
-- Configured GitHub Pages in the repository settings to deploy from the `main` branch.
+1. Created the GitHub repository: `Basics-of-Software-Technology`
+2. Configured Jekyll with the following `_config.yml`:
 
-### 4. Version Control Management with Git
-
-### 4.1 Git Process
-- Used Git to manage project files.
-- Made at least 5 significant commits that reflect the logical progress of the project.
-
-### 4.2 Commit Justification
-- **Commit 1**: Initial repository setup and Jekyll configuration.
-- **Commit 2**: Added core content to the website.
-
-- **Commitment 3**: Site configuration adjustments and structural improvements.
-- **Commitment 4**: Inclusion of new blog posts.
-- **Commitment 5**: Final documentation and preparation for delivery.
-
-## 5. Choice of Tool or Framework
-
-The choice of Jekyll and GitHub Pages was based on their ease of use and integration with GitHub, simplifying the deployment and management of a static website.
-
-## 6. Conclusion
-
-This project allowed me to learn how to configure and deploy a static website using GitHub Pages and Jekyll. Additionally, I will improve my skills in version control with Git and project documentation in Markdown.
-
-## 7. References
-
-- [GitHub Pages Documentation](https://pages.github.com/)
-- [Jekyll Documentation](https://jekyllrb.com/docs/)
-- [Git Guide](https://git-scm.com/doc)
+```yaml
+title: "Assignment Portfolio"
+baseurl: "/Basics-of-Software-Technology"
+url: "https://ivoanve.github.io"
+theme: jekyll-theme-minimal

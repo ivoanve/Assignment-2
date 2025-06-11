@@ -53,8 +53,10 @@ Assignment 1 was integrated directly into the blog as a separate post. It includ
 
 - Complete documentation in Markdown  
 - C and Python code for matrix multiplication  
-- System configuration and output validation  
+- System configuration and output validation
+   
 ---
+
 ## 5. Tools and Frameworks Used
 
 - **Jekyll** — static site generator  
@@ -90,6 +92,7 @@ This assignment helped me learn how to:
 - [GitHub Pages Help](https://pages.github.com/)  
 - [Markdown Guide](https://www.markdownguide.org/)  
 - [Minimal Theme](https://github.com/pages-themes/minimal)
+  
 ---
 
 

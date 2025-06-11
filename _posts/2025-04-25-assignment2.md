@@ -33,7 +33,7 @@ I used **Jekyll** with the official GitHub Pages theme jekyll-theme-minimal to b
 3. Created the folders _posts/ and assets/, and added Markdown posts for each assignment.
 4. Customized layout using minimal HTML and Markdown only (as jekyll-theme-minimal is intentionally lightweight).
 5. Deployed the site to GitHub Pages, now publicly accessible at:  
-   🔗 [https://ivoanve.github.io/Basics-of-Software-Technology](https://ivoanve.github.io/Basics-of-Software-Technology)
+   🔗 [https://ivoanve.github.io/Basics-of-Software-Technology]
 
 ---
 
@@ -60,9 +60,6 @@ Assignment 1 was integrated directly into the blog as a separate post. It includ
 - Complete documentation in Markdown  
 - C and Python code for matrix multiplication  
 - System configuration and output validation  
-
-🔗 [View Assignment 1](https://ivoanve.github.io/Basics-of-Software-Technology/2025/06/06/assignment1.html)
-
 ---
 
 ## 5. Tools and Frameworks Used
@@ -107,5 +104,3 @@ It provided a solid foundation for publishing the rest of my assignments online.
 - [Minimal Theme](https://github.com/pages-themes/minimal)
 
 ---
-
-> Written using Markdown and deployed with GitHub Pages using the jekyll-theme-minimal.

@@ -97,6 +97,10 @@ result = multiply_matrices(mat1, mat2)
 print_matrix(result)
 ```
 {% endraw %}
+## Execution Command:
+
+python matrix.py
+
 ### 2. Algorithm Verification
 
 - **Correctness**: To verify the correctness of the matrix multiplication algorithm, I manually calculated the results for small matrices (2x2) and compared them with the output of the programs.

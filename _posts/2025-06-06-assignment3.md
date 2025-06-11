@@ -81,19 +81,8 @@ print(response.json()["response"])
 
 ---
 
-## IV. Optional: Research Workflow Optimization (Future Work)
 
-I plan to expand this setup by:
-
-- Automating prompt chaining for technical research.
-- Using the model to assist in summarization of papers and generation of draft reports.
-- Exploring fine-tuning or prompt-engineering techniques.
-
-This can significantly reduce manual workload and improve research productivity.
-
----
-
-## V. Conclusion
+## IV. Conclusion
 
 This assignment demonstrated:
 - How to use both **online** and **local** LLMs.
@@ -104,7 +93,7 @@ It also emphasized the importance of balancing performance, cost, and accessibil
 
 ---
 
-## VI. References
+## V. References
 
 - [OpenAI API Documentation](https://platform.openai.com/docs)
 - [Ollama Documentation](https://ollama.com/)

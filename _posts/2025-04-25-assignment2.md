@@ -24,14 +24,14 @@ I used **Jekyll** with the official GitHub Pages theme `jekyll-theme-minimal` to
 
 1. Created the GitHub repository: `Basics-of-Software-Technology`
 2. Configured Jekyll with the following `_config.yml`:
-
+{% raw %}
    ```yaml
    title: "Assignment Portfolio"
    baseurl: "/Basics-of-Software-Technology"
    url: "https://ivoanve.github.io"
    theme: jekyll-theme-minimal
    ```
-
+{% endraw %}
 3. Created the folders `_posts/` and `assets/`, and added Markdown posts for each assignment.
 4. Customized layout using minimal HTML and Markdown only (as `jekyll-theme-minimal` is intentionally lightweight).
 5. Deployed the site to GitHub Pages, now publicly accessible at:  

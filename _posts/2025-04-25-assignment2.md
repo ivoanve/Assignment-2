@@ -29,7 +29,8 @@ I used **Jekyll** with the official GitHub Pages theme jekyll-theme-minimal to b
 3. Created the folders _posts/ and assets/, and added Markdown posts for each assignment.
 4. Customized layout using minimal HTML and Markdown only (as jekyll-theme-minimal is intentionally lightweight).
 5. Deployed the site to GitHub Pages, now publicly accessible at:  
-   🔗 [https://ivoanve.github.io/Basics-of-Software-Technology]
+   🔗 [https://ivoanve.github.io/Basics-of-Software-Technology](https://ivoanve.github.io/Basics-of-Software-Technology)
+   
 ---
 ## 3. Git Version Control
 
@@ -61,7 +62,8 @@ Assignment 1 was integrated directly into the blog as a separate post. It includ
 - **Markdown** — for writing content  
 - **Git** — version control  
 - **GitHub Pages** — for free deployment  
-- **VS Code** — editing and previewing  
+- **VS Code** — editing and previewing
+  
 ---
 
 ## 6. Challenges and Learnings
@@ -80,6 +82,7 @@ This assignment helped me learn how to:
 - Manage a project with Git and meaningful commits  
 - Document technical work clearly with Markdown  
 - Share assignments in a professional and public formatIt provided a solid foundation for publishing the rest of my assignments online.
+  
 ---
 ## 8. References
 

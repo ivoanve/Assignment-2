@@ -2,7 +2,6 @@
 title: "Assignment 2: Static Personal Blog Website"
 date: 2025-04-25
 ---
-
 ## Static Personal Blog Website Report
 
 **Student Name**: Ivonne Andrea Anave Zenteno  

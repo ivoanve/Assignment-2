@@ -78,9 +78,9 @@ Assignment 1 was integrated directly into the blog as a separate post. It includ
 
 ## 6. Challenges and Learnings
 
-- 🧩 Managing the `baseurl` was key to making links work correctly.  
+- 🧩 Managing the baseurl was key to making links work correctly.  
 - 💻 Learned how to customize a minimal theme without breaking the layout.  
-- 🔧 Fixed issues with Liquid syntax by using `{% raw %}` around C code.  
+- 🔧 Fixed issues with Liquid syntax by using {% raw %} around C code.  
 
 These small but practical problems helped reinforce my understanding of static site generation and Markdown formatting.
 
@@ -108,4 +108,4 @@ It provided a solid foundation for publishing the rest of my assignments online.
 
 ---
 
-> Written using Markdown and deployed with GitHub Pages using the `jekyll-theme-minimal`.
+> Written using Markdown and deployed with GitHub Pages using the jekyll-theme-minimal.

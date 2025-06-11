@@ -18,22 +18,20 @@ The goal of this assignment was to create and deploy a static personal blog webs
 
 ## 2. Website Setup and Deployment
 
-I used **Jekyll** with the official GitHub Pages theme `jekyll-theme-minimal` to build and style the site.
+I used **Jekyll** with the official GitHub Pages theme jekyll-theme-minimal to build and style the site.
 
 ### Steps followed:
 
-1. Created the GitHub repository: `Basics-of-Software-Technology`
-2. Configured Jekyll with the following `_config.yml`:
-{% raw %}
-   ```yaml
+1. Created the GitHub repository: Basics-of-Software-Technology
+2. Configured Jekyll with the following _config.yml:
+
    title: "Assignment Portfolio"
    baseurl: "/Basics-of-Software-Technology"
    url: "https://ivoanve.github.io"
    theme: jekyll-theme-minimal
-   ```
-{% endraw %}
-3. Created the folders `_posts/` and `assets/`, and added Markdown posts for each assignment.
-4. Customized layout using minimal HTML and Markdown only (as `jekyll-theme-minimal` is intentionally lightweight).
+   
+3. Created the folders _posts/ and assets/, and added Markdown posts for each assignment.
+4. Customized layout using minimal HTML and Markdown only (as jekyll-theme-minimal is intentionally lightweight).
 5. Deployed the site to GitHub Pages, now publicly accessible at:  
    🔗 [https://ivoanve.github.io/Basics-of-Software-Technology](https://ivoanve.github.io/Basics-of-Software-Technology)
 
@@ -45,11 +43,11 @@ I used Git throughout the project to track meaningful changes. Below is a summar
 
 | Commit Message                        | Purpose                                     |
 |--------------------------------------|---------------------------------------------|
-| `init: basic Jekyll setup`           | Started the Jekyll site structure           |
-| `add: assignment1 markdown`          | Added content and code for Assignment 1     |
-| `change: updated _config for theme`  | Switched to jekyll-theme-minimal            |
-| `docs: wrote assignment2 report`     | Added this report to the site               |
-| `style: improved homepage layout`    | Simplified structure, better readability    |
+| init: basic Jekyll setup           | Started the Jekyll site structure           |
+| add: assignment1 markdown          | Added content and code for Assignment 1     |
+| change: updated _config for theme  | Switched to jekyll-theme-minimal            |
+| docs: wrote assignment2 report     | Added this report to the site               |
+| style: improved homepage layout    | Simplified structure, better readability    |
 
 Each commit represents a logical step in the site’s creation or improvement process.
 

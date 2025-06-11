@@ -1,76 +1,22 @@
 ---
-title: "Deployment and Integration of Large Language Models (LLMs)"
+title: "Assignment 3: Deployment and Integration of Large Language Models (LLMs)"
 date: 2025-06-01
 ---
-# Assignment 3: Deployment and Integration of Large Language Models (LLMs)
+## Assignment 3 Report
+
+**Student Name**: Ivonne Andrea Anave Zenteno  
+**Student ID**: LS2408221  
+**Submission Date**: 01/06/2025  
+
+---
 
 ## I. Online Model API: OpenAI
 
--   An OpenAI account was created and an API key was generated.
-    
--   Initial tests were performed using Python with the `openai` library.
-    
--   The following capabilities were demonstrated:
-    
-    -   Prompt-based text generation using `gpt-3.5-turbo`.
-        
-    -   Customization of outputs using parameters like `max_tokens`.
-        
--   Due to usage limits, the API key reached its quota and further access was restricted.
-    
+To explore cloud-based LLM integration, I created an account on **OpenAI** and generated a personal API key. Using the `openai` Python library, I tested the following:
 
-## II. Local Model Deployment: Ollama + LLaMA 3
+- Prompt-based text generation using the `gpt-3.5-turbo` model.
+- Output customization using parameters such as `max_tokens`, `temperature`, and `top_p`.
 
--   Ollama was successfully installed on a Windows-based OMEN 16 machine.
-    
--   The `llama3` model was pulled and initialized via the command:
-    
-    ```bash
-    ollama run llama3
-    
-    ```
-    
--   The model downloaded (~4.7 GB) and was verified and executed.
-    
--   Basic prompts were tested directly from PowerShell.
-    
+Example test used:
 
-## III. Development Environment Integration
 
--   VS Code was used as the primary development environment.
-    
--   A Python script was created to interact with the local Ollama model via HTTP requests:
-    
-    ```python
-    import requests
-    
-    prompt = "Explain the life."
-    
-    response = requests.post(
-        'http://localhost:11434/api/generate',
-        json={
-            "model": "llama3",
-            "prompt": prompt,
-            "stream": False
-        }
-    )
-    
-    print(response.json()["response"])
-    
-    ```
-    
--   This setup allows for easy integration of LLMs in personal projects and academic tools without requiring online access or API usage limits.
-    
-
-## IV. Optional: Research Workflow Optimization (Future Work)
-
--   Future improvements include integrating the local model into research pipelines for text summarization, data analysis, and technical writing assistance.
-    
--   Additional exploration into chaining multiple prompts and context-based workflows is suggested.
-    
-
-----------
-
-**Status: Complete** ✅
-
-> Written with [StackEdit](https://stackedit.io/).

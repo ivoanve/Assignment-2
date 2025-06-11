@@ -67,8 +67,7 @@ Assignment 1 was integrated directly into the blog as a separate post. It includ
 
 - 🧩 Managing the baseurl was key to making links work correctly.  
 - 💻 Learned how to customize a minimal theme without breaking the layout.  
-- 🔧 Fixed issues with Liquid syntax by using {% raw %} around C code.  
-
+    
 These small but practical problems helped reinforce my understanding of static site generation and Markdown formatting.
 ---
 ## 7. Conclusion

@@ -7,15 +7,11 @@ date: 2025-04-25
 **Student Name**: Ivonne Andrea Anave Zenteno  
 **Student ID**: LS2408221  
 **Submission Date**: 25/04/2025  
-
 ---
-
 ## 1. Objective
 
 The goal of this assignment was to create and deploy a static personal blog website using tools such as **Jekyll**, **Markdown**, **Git**, and **GitHub Pages**. The website serves as a central location to present my course assignments, starting with Assignment 1.
-
 ---
-
 ## 2. Website Setup and Deployment
 
 I used **Jekyll** with the official GitHub Pages theme jekyll-theme-minimal to build and style the site.
@@ -34,9 +30,7 @@ I used **Jekyll** with the official GitHub Pages theme jekyll-theme-minimal to b
 4. Customized layout using minimal HTML and Markdown only (as jekyll-theme-minimal is intentionally lightweight).
 5. Deployed the site to GitHub Pages, now publicly accessible at:  
    🔗 [https://ivoanve.github.io/Basics-of-Software-Technology]
-
 ---
-
 ## 3. Git Version Control
 
 I used Git throughout the project to track meaningful changes. Below is a summary of important commits:
@@ -50,9 +44,7 @@ I used Git throughout the project to track meaningful changes. Below is a summar
 | style: improved homepage layout    | Simplified structure, better readability    |
 
 Each commit represents a logical step in the site’s creation or improvement process.
-
 ---
-
 ## 4. Integration of Previous Work
 
 Assignment 1 was integrated directly into the blog as a separate post. It includes:
@@ -61,7 +53,6 @@ Assignment 1 was integrated directly into the blog as a separate post. It includ
 - C and Python code for matrix multiplication  
 - System configuration and output validation  
 ---
-
 ## 5. Tools and Frameworks Used
 
 - **Jekyll** — static site generator  
@@ -70,9 +61,7 @@ Assignment 1 was integrated directly into the blog as a separate post. It includ
 - **Git** — version control  
 - **GitHub Pages** — for free deployment  
 - **VS Code** — editing and previewing  
-
 ---
-
 ## 6. Challenges and Learnings
 
 - 🧩 Managing the baseurl was key to making links work correctly.  
@@ -80,9 +69,7 @@ Assignment 1 was integrated directly into the blog as a separate post. It includ
 - 🔧 Fixed issues with Liquid syntax by using {% raw %} around C code.  
 
 These small but practical problems helped reinforce my understanding of static site generation and Markdown formatting.
-
 ---
-
 ## 7. Conclusion
 
 This assignment helped me learn how to:
@@ -93,14 +80,11 @@ This assignment helped me learn how to:
 - Share assignments in a professional and public format  
 
 It provided a solid foundation for publishing the rest of my assignments online.
-
 ---
-
 ## 8. References
 
 - [Jekyll Docs](https://jekyllrb.com/docs/)  
 - [GitHub Pages Help](https://pages.github.com/)  
 - [Markdown Guide](https://www.markdownguide.org/)  
 - [Minimal Theme](https://github.com/pages-themes/minimal)
-
 ---

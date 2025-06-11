@@ -44,6 +44,7 @@ I used Git throughout the project to track meaningful changes. Below is a summar
 | style: improved homepage layout    | Simplified structure, better readability    |
 
 Each commit represents a logical step in the site’s creation or improvement process.
+
 ---
 ## 4. Integration of Previous Work
 
@@ -52,4 +53,39 @@ Assignment 1 was integrated directly into the blog as a separate post. It includ
 - Complete documentation in Markdown  
 - C and Python code for matrix multiplication  
 - System configuration and output validation  
+---
+## 5. Tools and Frameworks Used
+
+- **Jekyll** — static site generator  
+- **jekyll-theme-minimal** — lightweight and clean theme  
+- **Markdown** — for writing content  
+- **Git** — version control  
+- **GitHub Pages** — for free deployment  
+- **VS Code** — editing and previewing  
+---
+## 6. Challenges and Learnings
+
+- Managing the baseurl was key to making links work correctly.  
+- Learned how to customize a minimal theme without breaking the layout.  
+- Fixed issues with Liquid syntax by using {% raw %} around C code.  
+
+These small but practical problems helped reinforce my understanding of static site generation and Markdown formatting.
+---
+## 7. Conclusion
+
+This assignment helped me learn how to:
+
+- Set up and deploy a Jekyll site using GitHub Pages  
+- Manage a project with Git and meaningful commits  
+- Document technical work clearly with Markdown  
+- Share assignments in a professional and public format  
+
+It provided a solid foundation for publishing the rest of my assignments online.
+---
+## 8. References
+
+- [Jekyll Docs](https://jekyllrb.com/docs/)  
+- [GitHub Pages Help](https://pages.github.com/)  
+- [Markdown Guide](https://www.markdownguide.org/)  
+- [Minimal Theme](https://github.com/pages-themes/minimal)
 ---

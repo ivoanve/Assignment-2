@@ -86,16 +86,7 @@ This assignment helped me learn how to:
 - Share assignments in a professional and public formatIt provided a solid foundation for publishing the rest of my assignments online.
 
 ---
-## 8. 🎥 Project Presentation Video
-
-<div align="center">
-  <iframe width="560" height="315" src="[https://youtu.be/Vjn3aL_VVgU]" 
-  title="CubeSat Risk Quick-Assessor Presentation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-  </iframe>
-</div>
-
----
-## 9. References
+## 8. References
 
 - [Jekyll Docs](https://jekyllrb.com/docs/)  
 - [GitHub Pages Help](https://pages.github.com/)  

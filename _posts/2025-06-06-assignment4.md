@@ -145,7 +145,19 @@ This project allowed me to:
 - Practice AI-assisted software development for engineering tools.
 
 ---
+## 8. 🎥 Project Presentation Video
 
+<div align="center">
+  <iframe width="560" height="315"
+    src="https://youtu.be/Vjn3aL_VVgU"
+    title="CubeSat Risk Quick-Assessor Presentation"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+
+---
 ## 7. References
 
 - [NASA CubeSat 101 Guide](https://www.nasa.gov/sites/default/files/atoms/files/cubesat_101.pdf)
